@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "Poke";
+    src: url("font.ttf") format("truetype");
+}
+
+body{
+    background-image: url("crop.jpg");
+    font-family: Poke;
+    font-size: 70px;
+    text-align: center;
+}
+
